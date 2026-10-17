@@ -3,7 +3,7 @@ def test_login():
     password = "attendance123"
 
     if username == "student" and password == "attendance123":
-        print("Login Successful")
+        print("Login Successful-AttendX")
     else:
         print("Login Failed")
 
